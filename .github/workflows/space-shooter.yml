@@ -1,0 +1,19 @@
+name: GitHub Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:      # allows manual runs
+
+permissions:
+  contents: write         # required to commit the GIF
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Space Shooter
+        uses: czl9707/gh-space-shooter@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
+          output: dist/space-shooter.gif
