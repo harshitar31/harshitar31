@@ -16,5 +16,5 @@ I'm a Computer Science and Engineering student with an interest in Natural Langu
 GitHub Space Shooter powered by [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)
 
 
-## GitHub Stats
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitar31&show_icons=true&theme=tokyonight)
+## GitHub Metrics
+![Metrics](./github-metrics.svg)
