@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Create output directory
         run: mkdir -p dist
 
@@ -21,3 +24,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: harshitar31
           output-path: dist/space-shooter.gif
+          commit-message: "Update space shooter animation"
