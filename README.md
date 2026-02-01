@@ -15,6 +15,3 @@ I'm a Computer Science and Engineering student with an interest in Natural Langu
 
 GitHub Space Shooter powered by [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)
 
-
-## GitHub Metrics
-![Metrics](./github-metrics.svg)
