@@ -10,8 +10,8 @@ I'm a Computer Science and Engineering student with an interest in Natural Langu
 
 ---
 
-## GitHub Space Shooter
+## Contributions in Arcade Mode
 ![GitHub Space Shooter](./dist/space-shooter.gif)
 
-
+GitHub Space Shooter powered by [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)
 
